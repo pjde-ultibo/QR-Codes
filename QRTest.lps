@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="9">
+      <Unit0>
+        <Filename Value="QRTest.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="15"/>
+        <CursorPos X="50" Y="35"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="Source\DelphiZXIngQRCode.pas"/>
+        <UnitName Value="DelphiZXingQRCode"/>
+        <EditorIndex Value="8"/>
+        <TopLine Value="43"/>
+        <CursorPos X="80" Y="34"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\ADUG\HelloWorld.lpr"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="10"/>
+        <CursorPos Y="24"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="uTFTP.pas"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="494"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="..\..\Core\fpc\3.1.1\source\rtl\ultibo\core\globalconst.pas"/>
+        <UnitName Value="GlobalConst"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="1599"/>
+        <CursorPos X="2" Y="1614"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="uCanvas.pas"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="45"/>
+        <CursorPos Y="52"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="uFontInfo.pas"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="281"/>
+        <CursorPos Y="281"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="..\..\Core\fpc\3.1.1\source\rtl\ultibo\core\graphicsconsole.pas"/>
+        <UnitName Value="GraphicsConsole"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="196"/>
+        <CursorPos X="10" Y="166"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="..\..\Core\fpc\3.1.1\source\rtl\ultibo\core\console.pas"/>
+        <UnitName Value="Console"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="4524"/>
+        <CursorPos X="102" Y="4540"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit8>
+    </Units>
+    <JumpHistory Count="22" HistoryIndex="21">
+      <Position1>
+        <Filename Value="QRTest.lpr"/>
+        <Caret Line="20" Column="21"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Source\DelphiZXIngQRCode.pas"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Source\DelphiZXIngQRCode.pas"/>
+        <Caret Line="26" Column="4" TopLine="10"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Source\DelphiZXIngQRCode.pas"/>
+        <Caret Line="29" Column="14" TopLine="223"/>
+      </Position4>
+      <Position5>
+        <Filename Value="QRTest.lpr"/>
+        <Caret Line="20" Column="7" TopLine="8"/>
+      </Position5>
+      <Position6>
+        <Filename Value="QRTest.lpr"/>
+        <Caret Line="57" Column="68" TopLine="43"/>
+      </Position6>
+      <Position7>
+        <Filename Value="QRTest.lpr"/>
+        <Caret Line="37" Column="8" TopLine="52"/>
+      </Position7>
+      <Position8>
+        <Filename Value="QRTest.lpr"/>
+        <Caret Line="22" Column="12" TopLine="4"/>
+      </Position8>
+      <Position9>
+        <Filename Value="uCanvas.pas"/>
+        <Caret TopLine="13"/>
+      </Position9>
+      <Position10>
+        <Filename Value="uFontInfo.pas"/>
+      </Position10>
+      <Position11>
+        <Filename Value="QRTest.lpr"/>
+        <Caret Line="73" Column="20" TopLine="67"/>
+      </Position11>
+      <Position12>
+        <Filename Value="QRTest.lpr"/>
+        <Caret Line="21" Column="11" TopLine="6"/>
+      </Position12>
+      <Position13>
+        <Filename Value="..\..\Core\fpc\3.1.1\source\rtl\ultibo\core\graphicsconsole.pas"/>
+        <Caret Line="166" Column="67" TopLine="157"/>
+      </Position13>
+      <Position14>
+        <Filename Value="..\..\Core\fpc\3.1.1\source\rtl\ultibo\core\console.pas"/>
+        <Caret Line="158" Column="76" TopLine="149"/>
+      </Position14>
+      <Position15>
+        <Filename Value="..\..\Core\fpc\3.1.1\source\rtl\ultibo\core\console.pas"/>
+        <Caret Line="170" Column="14" TopLine="149"/>
+      </Position15>
+      <Position16>
+        <Filename Value="..\..\Core\fpc\3.1.1\source\rtl\ultibo\core\console.pas"/>
+        <Caret Line="544" Column="65" TopLine="519"/>
+      </Position16>
+      <Position17>
+        <Filename Value="..\..\Core\fpc\3.1.1\source\rtl\ultibo\core\console.pas"/>
+        <Caret Line="545" Column="76" TopLine="520"/>
+      </Position17>
+      <Position18>
+        <Filename Value="..\..\Core\fpc\3.1.1\source\rtl\ultibo\core\console.pas"/>
+        <Caret Line="4536" Column="65" TopLine="4511"/>
+      </Position18>
+      <Position19>
+        <Filename Value="QRTest.lpr"/>
+        <Caret Line="101" Column="22" TopLine="75"/>
+      </Position19>
+      <Position20>
+        <Filename Value="QRTest.lpr"/>
+        <Caret Line="77" Column="18" TopLine="62"/>
+      </Position20>
+      <Position21>
+        <Filename Value="QRTest.lpr"/>
+        <Caret Line="67" Column="19" TopLine="65"/>
+      </Position21>
+      <Position22>
+        <Filename Value="QRTest.lpr"/>
+        <Caret Line="31" Column="34" TopLine="21"/>
+      </Position22>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
